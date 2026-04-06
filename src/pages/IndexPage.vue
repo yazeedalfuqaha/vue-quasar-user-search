@@ -57,6 +57,9 @@
         <q-skeleton type="rect" height="32px" class="q-mb-sm" />
       </q-card-section>
 
+
+      //-------------------------
+
       <!-- User Info -->
       <q-card-section v-if="user && !loading" class="q-pa-md animate-fade">
         <div class="row items-center no-wrap q-mb-md">
