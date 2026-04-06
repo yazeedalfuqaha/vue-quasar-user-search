@@ -58,7 +58,7 @@
       </q-card-section>
 
 
-      //-------------------------
+
 
       <!-- User Info -->
       <q-card-section v-if="user && !loading" class="q-pa-md animate-fade">
